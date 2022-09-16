@@ -1,4 +1,4 @@
-To check webhook trigger
+To check POLL SCM trigger
 Changes done to check poll scm
 sdfdslfjsdlfjlkdsjfsdddddddddd
 Fs'dfds;lfkdfs
