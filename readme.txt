@@ -1,4 +1,4 @@
-To check POLL SCM trigger
+To check POLL SCM 6 trigger
 Changes done to check poll scm
 sdfdslfjsdlfjlkdsjfsdddddddddd
 Fs'dfds;lfkdfs
